@@ -284,16 +284,16 @@ jobs:
           dexcom_upload_readings \
           future_carbs_4h \
           
-          high_carb_limit \
-          override_sens \
-          now_line \
-          lnl_icon \
-          watch_title \
-          2hlollipop \
-          meal_days \
           
-          profiles \
-          basal_lock \
+          
+          
+          
+          
+          
+          
+          
+          
+          
           live_activity
 
           # the final customization listed above CANNOT have a continuation character
@@ -307,7 +307,7 @@ jobs:
         
 
     
-          
+                          
 
           
       # Patch Fastlane Match to not print tables
