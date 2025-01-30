@@ -283,7 +283,8 @@ jobs:
           https://raw.githubusercontent.com/loopandlearn/lnl-scripts/main/CustomizationSelect.sh)" \
           dexcom_upload_readings \
           future_carbs_4h \
-          low_carb_limit \
+          negative_insulin \
+          bolus_display \
           override_sens \
           now_line \
           lnl_icon \
