@@ -291,7 +291,6 @@ jobs:
           dexcom_upload_readings \
           future_carbs_4h \
           negative_insulin \
-          bolus_display \
           override_sens \
           now_line \
           lnl_icon \
